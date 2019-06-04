@@ -1,6 +1,8 @@
 
 # Colors & Fonts
 
+Please download or clone this file.
+
 ### ENASE
 [Fonts]
 ```css
